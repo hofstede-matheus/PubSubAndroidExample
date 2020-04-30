@@ -1,0 +1,2 @@
+rootProject.name='PubSubAndroidExample'
+include ':app'
